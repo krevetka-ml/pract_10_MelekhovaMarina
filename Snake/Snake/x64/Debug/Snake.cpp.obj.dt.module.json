@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Snake\\x64\\Debug\\Snake.obj",
+            "outputs": [
+                "Snake\\x64\\Debug\\Snake.cpp.obj.dt.module.json",
+                "Snake\\x64\\Debug\\Snake.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
